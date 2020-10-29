@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=HTML&message=index&color=red&style=for-the-badge&logo=HTML"/>
   <img src="https://img.shields.io/static/v1?label=CSS&message=style&color=purple&style=for-the-badge&logo=CSS"/>
-  <img src="https://img.shields.io/static/v1?label=JAVASCRIPT&message=style&color=yellow&style=for-the-badge&logo=CSS"/>
+  <img src="https://img.shields.io/static/v1?label=JS&message=script&color=yellow&style=for-the-badge&logo=JAVASCRIPT"/>
 </p>
 
 > Status do Projeto: :heavy_check_mark: (concluido)
@@ -50,6 +50,6 @@ Responsável pelo desenvolvimento do projeto
 
 ## Licença 
 
-The [https://www.linkedin.com/in/itamar-santos-da-silva-463b0a176](ISS)
+The<a href="https://www.linkedin.com/in/itamar-santos-da-silva-463b0a176">ISS</a>
 
 Copyright :copyright: 2020 - Desenvolvendo um jogo da memória
