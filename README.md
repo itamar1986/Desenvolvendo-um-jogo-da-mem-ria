@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=HTML&message=index&color=red&style=for-the-badge&logo=HTML"/>
   <img src="https://img.shields.io/static/v1?label=CSS&message=style&color=purple&style=for-the-badge&logo=CSS"/>
-  <img src="https://img.shields.io/static/v1?label=JAVASCRIPT&message=style&color=purple&style=for-the-badge&logo=CSS"/>
+  <img src="https://img.shields.io/static/v1?label=JAVASCRIPT&message=style&color=yellow&style=for-the-badge&logo=CSS"/>
 </p>
 
 > Status do Projeto: :heavy_check_mark: (concluido)
@@ -30,13 +30,13 @@
 
 :heavy_check_mark: JAVASCRIPT simples
 
-:heavy_check_mark: IFront-End Básico
+:heavy_check_mark: Front-End Básico
 
 ## Download do certificado :dash:
 
 > Link do download do certificado: https://certificates.digitalinnovation.one/F7623609
 
-<p align="justify">Imagem do Projeto</p>
+<p align="justify">Video do Projeto</p>
 
 ![jogo](https://user-images.githubusercontent.com/54650669/97509342-ca81ef80-1960-11eb-951c-d7eba80d0b64.gif)
 
@@ -50,6 +50,6 @@ Responsável pelo desenvolvimento do projeto
 
 ## Licença 
 
-The [ISS]() (ISS)
+The [https://www.linkedin.com/in/itamar-santos-da-silva-463b0a176](ISS)
 
 Copyright :copyright: 2020 - Desenvolvendo um jogo da memória
