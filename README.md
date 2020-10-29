@@ -48,8 +48,6 @@ Responsável pelo desenvolvimento do projeto
 | [<img src="https://avatars0.githubusercontent.com/u/54650669?s=460&u=256c0c28b9d5560d21d734ceedb09439a7521cc2&v=4" width=115><br><sub>Itamar Santos da Silva</sub>](https://github.com/itamar1986) |
 | :---: |
 
-## Licença 
+## Linkedin <a href="https://www.linkedin.com/in/itamar-santos-da-silva-463b0a176"> Itamar Santos da Silva</a>
 
-Linkedin <a href="https://www.linkedin.com/in/itamar-santos-da-silva-463b0a176"> ISS</a>
 
-Copyright :copyright: 2020 - Desenvolvendo um jogo da memória
